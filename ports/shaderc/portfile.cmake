@@ -11,8 +11,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO google/shaderc
-    REF 12fb656ab20ea9aa06e7084a74e5ff832b7ce2da
-    SHA512 6fb45a0b01e6709c44a11658648b9271fe06bd94023dcc5042c47b5f2a04889c2efb0ab4c166f18728594ac9b9aa9f8b354af46d88eb7f7c39c7246f52f5a933
+    REF b6d4dcb580543fc1bd6dbad8fcecc0ed8f2bdd42
+    SHA512 530463df924d1ff3b832a3bc0eef889d0231819ac16c3779aa1bc22f1aa6ba6895557d02597aa5fb5093179394dbcea485ce95e5efdea30bdb0e82075f9d5528
     HEAD_REF master
 )
 
